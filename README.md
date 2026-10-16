@@ -2,11 +2,6 @@
 
 An ESP32-based smart doorbell that senses a visitor **before** the bell is pressed, shows how close they are with an RGB LED, rings a buzzer when the button is pressed, and sends the owner a **photo on Telegram**.
 
-B.Tech II Year, CSE, KLEF (Bachupally), AY 2026-27 (Odd Semester)
-
-**Team:** Jakka Bhanu (2520030006), Anand Akshita (2520030043), Pakalapati Harini (2520030177)
-**Supervisor:** Dr. Purva Sharma | **Co-Supervisor:** Dr. A. Kiran Kumar
-
 ---
 
 ## Features
