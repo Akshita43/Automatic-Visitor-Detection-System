@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 
 // ---------- EDIT THESE ----------
-const char* ssid     = "******";
+const char* ssid     = "*******";
 const char* password = "*******";
 String BOT_TOKEN = "**************************";
 String CHAT_ID   = "*******";
